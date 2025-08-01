@@ -1,0 +1,9 @@
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\bin\Debug\uygulama-15.exe.config
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\bin\Debug\uygulama-15.exe
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\bin\Debug\uygulama-15.pdb
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama_15.Form1.resources
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama_15.Properties.Resources.resources
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama-15.csproj.GenerateResource.cache
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama-15.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama-15.exe
+C:\Users\lts\source\repos\uygulama-15\uygulama-15\obj\Debug\uygulama-15.pdb
